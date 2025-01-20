@@ -157,10 +157,13 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-radius: 50px;
+    /* border: 1px solid black; */
   }
   .nav-center h4 {
     margin-bottom: 0;
     color: var(--clr-primary-5);
+    margin-left: 15px;
   }
   .nav-links {
     display: flex;
